@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pings", "Pings\Pings.csproj", "{F45492C5-E5D9-42FB-BE6F-FF271A465B60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingApp1", "PingApp1\PingApp1.csproj", "{B32A30AE-D8F0-488A-99EE-965CC0DAE069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingApp2", "PingApp2\PingApp2.csproj", "{C66FB3C7-459D-4B63-890D-27976DE21492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F45492C5-E5D9-42FB-BE6F-FF271A465B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45492C5-E5D9-42FB-BE6F-FF271A465B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45492C5-E5D9-42FB-BE6F-FF271A465B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45492C5-E5D9-42FB-BE6F-FF271A465B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B32A30AE-D8F0-488A-99EE-965CC0DAE069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32A30AE-D8F0-488A-99EE-965CC0DAE069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32A30AE-D8F0-488A-99EE-965CC0DAE069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32A30AE-D8F0-488A-99EE-965CC0DAE069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66FB3C7-459D-4B63-890D-27976DE21492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66FB3C7-459D-4B63-890D-27976DE21492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66FB3C7-459D-4B63-890D-27976DE21492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66FB3C7-459D-4B63-890D-27976DE21492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C6DA67D-262C-444D-A14B-551B8106B5D7}
+	EndGlobalSection
+EndGlobal
