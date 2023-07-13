@@ -20,7 +20,7 @@ namespace PingApp2
                 var keyPressed = Console.ReadKey(true);
                 if (keyPressed.Key != ConsoleKey.Escape)
                 {
-                    var p = new Ping2(keyPressed.Key.ToString());
+                    var p = new Ping1(keyPressed.Key.ToString());
                     await _bus.Publish(p);
                     
                 }
